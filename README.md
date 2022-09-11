@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 </a>
 <!-- </p> -->
 </div>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Michaela-K&theme=algolia&title_color=F29924&text_color=040404&bg_color=F4F1EF" alt="Michaela" /></p>
+/></p>
