@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <!--SQL--><img src="https://i.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=790b7611402d01059fc3d2aea4f12d783aae6a71a7201a30&rid=giphy.gif&ct=s" width="70">
     <!--BootS--><img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47kdfxf2b7a4a7xaoji3g419vagjpwsyuyk3i9tucj&rid=giphy.gif&ct=s" width="50">
     <!--VSC--><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-    <!--Git--><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90">
+    <!--Github--><img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47qy04kk5c9v45yg6byormfnc7rx7lotzjqc75gaua&rid=giphy.gif&ct=g" width="90">
    
   <p>
 </div> 
