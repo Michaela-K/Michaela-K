@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img alt="Personal Website" src="#">Coming Soon!
   </a>
    -->
-  <a href="[https://www.linkedin.com/in/AVS1508/](https://www.linkedin.com/in/michaelaking20/)">
+  <a href="https://www.linkedin.com/in/michaelaking20/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michaela%20King-F2C589?style=flat-square&logo=linkedin">
     </a>
   <!--
