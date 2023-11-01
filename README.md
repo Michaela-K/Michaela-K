@@ -23,37 +23,56 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>👋 &nbsp;Hey there! I'm Michaela </h2>
+<h2 align="center">👋 &nbsp;Hey there! I'm Michaela </h2>
 
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-<!--<img alt="Coding" src="https://raw.githubusercontent.com/Michaela-K/Michaela-K/master/assets/hellogiphy.gif" margin-top='60px' width='360' align="right"/> -->
+<!--<img alt="Coding Girl Waving" src="https://raw.githubusercontent.com/Michaela-K/Michaela-K/master/assets/hellogiphy.gif" margin-top='60px' width='360' align="right"/> -->
 
-<div>
+<div align="center">
   <h3> 💻 Languages and Tools </h3>
-  <p>
-    <!--JS--><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-    <!--CSS--><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47henhpby264dg3fw10cswh5m7l235hjunu5cb5kt6&rid=giphy.gif&ct=s" width="50">
-     <!--HTML--><img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47gpar661d5zvq7mubkmxmkflh8981p6h5x8tv2buc&rid=giphy.gif&ct=s" width="50">
-     <!--Ruby--><img src="https://i.giphy.com/media/pYmxf0ihEIp2KfVGfl/giphy.gif?cid=ecf05e47yqn6b1h2693xauscktc25fvs937ha8et0w9jiwbl&rid=giphy.gif&ct=s" width="50">
-    <!--React--><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-    <!--Node--><img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif?cid=ecf05e472p0w1lia7lfkkcpr98647ip6zf02sefoq6olijb1&rid=giphy.gif&ct=s"  width="50">
-    <!--JQuery--><img src="https://i.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif?cid=ecf05e47kgfg0tlfwghoq9gos1eieuk6i9zahq6dcdppdenu&rid=giphy.gif&ct=s" width="90">
-    <!--SQL--><img src="https://i.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif?cid=790b7611402d01059fc3d2aea4f12d783aae6a71a7201a30&rid=giphy.gif&ct=s" width="70">
-    <!--BootS--><img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47kdfxf2b7a4a7xaoji3g419vagjpwsyuyk3i9tucj&rid=giphy.gif&ct=s" width="50">
-    <!--VSC--><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-    <!--Github--><img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47qy04kk5c9v45yg6byormfnc7rx7lotzjqc75gaua&rid=giphy.gif&ct=g" width="50">
-   
-  <p>
+  <p align="center"> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://www.tailwindcss.com/" target="_blank">
+      <img style="margin-top: 9px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+    </a>  
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="50" height="40"/> 
+    </a>
+  </p>
 </div> 
 
-### 🤝🏻 &nbsp;Connect with Me
-<p>
-  <!--
+<div align="center">
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+  
   <a href="#">
-    <img alt="Personal Website" src="#">Coming Soon!
+    <img alt="Personal Website" src="#"> Coming Soon!
   </a>
-   -->
+  
   <a href="https://www.linkedin.com/in/michaelaking20/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michaela%20King-F2C589?style=flat-square&logo=linkedin">
     </a>
@@ -62,14 +81,12 @@ Here are some ideas to get you started:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Michaela-F4F1EF?style=flat-square&logo=instagram">
   </a>
   -->
-  <a href="mailto:michaelakodes@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-michaelakodes@gmail.com-F2C589?style=flat-square&logo=gmail">
-   </a>
 </p>
+</div>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div style="display:flex; flex-direction:row;">
-<!--<p align="center"> -->
+<div align="center">
+<!-- <p align="center"> -->
 <a href="https://github.com/Michaela-K">
   <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Michaela-K&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=F29924&text_color=3c3c3c&icon_color=5B23FA&bg_color=F4F1EF&show_icons=true&line_height=27"/>
   <img width=42.5% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Michaela-K&layout=compact&langs_count=8&theme=algolia&title_color=F29924&text_color=040404&bg_color=F4F1EF" align="right"/>
