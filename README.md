@@ -32,34 +32,34 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> 💻 Languages and Tools </h3>
   <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
-    <a href="https://www.tailwindcss.com/" target="_blank">
+    <a href="https://www.tailwindcss.com/" target="_blank" style="text-decoration:none">
       <img style="margin-top: 9px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
     </a>  
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
-    <a href="" target="_blank" rel="noreferrer"> 
+    <a href="" target="_blank" rel="noreferrer" style="text-decoration:none"> 
       <img src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="50" height="40"/> 
     </a>
   </p>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <p align="center">
   
   <a href="#">
-    <img alt="Personal Website" src="#"> Coming Soon!
+    <img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20Website-Michaela%20King-F2C589?style=flat-square&logo=Portfolio"> Coming Soon!
   </a>
   
   <a href="https://www.linkedin.com/in/michaelaking20/">
