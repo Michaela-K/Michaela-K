@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2>👋 &nbsp;Hey there! I'm Michaela </h2>
 
-<img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<!--<img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
 
 <img alt="Coding" src="https://raw.githubusercontent.com/Michaela-K/Michaela-K/master/assets/hellogiphy.gif" margin-top='60px' width='360' align="right"/>
 
